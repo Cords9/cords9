@@ -1,7 +1,7 @@
 Olá, me chamo Diego ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-![Cords9 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cords9&show_icons=true&theme=dracula&count_private=true)
+![Cords9 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cords&show_icons=true&theme=dracula&count_private=true)
 
 ## Estou aprendendo
 
